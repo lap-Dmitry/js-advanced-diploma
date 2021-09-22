@@ -15,14 +15,14 @@
       },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/lap-Dmitry/js-advanced-diploma.git"
+        "url": "git+https://github.com/lap-Dmitry/res.git"
     },
     "author": "Dmitry",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/lap-Dmitry/js-advanced-diploma/issues"
+        "url": "https://github.com/lap-Dmitry/res/issues"
     },
-    "homepage": "https://github.com/lap-Dmitry/js-advanced-diploma#readme",
+    "homepage": "https://github.com/lap-Dmitry/res#readme",
     "devDependencies": {
         "@babel/cli": "^7.15.4",
         "@babel/core": "^7.15.5",
